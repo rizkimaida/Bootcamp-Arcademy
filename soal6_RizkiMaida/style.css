@@ -1,0 +1,14 @@
+.nav{
+	padding: 2rem 1rem;
+    margin-bottom: 2rem;
+    background-color: white;
+}
+
+.nav_content{
+	vertical-align: middle;
+	line-height: 200px;
+}
+
+.bottom{
+    box-shadow: 0 5px 5px -5px #333;
+}
